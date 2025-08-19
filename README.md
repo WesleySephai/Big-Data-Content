@@ -1,5 +1,3 @@
-# Agenda 
-
 • What is Big Data?
 
 • Examples
