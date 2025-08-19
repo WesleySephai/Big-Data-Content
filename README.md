@@ -1,9 +1,12 @@
 # Agenda 
 
 • What is Big Data?
- • Examples
- • Challenges
- • Benefits
+
+• Examples
+
+• Challenges
+
+• Benefits
  
  • Introduction distributed system 
 • Architecture 
@@ -39,3 +42,16 @@
  
  • E-commerce Transactions
  • During peak times, major e-commerce platforms can process thousands of transactions per second.
+
+ ## Spark
+• Apache Spark is an open-source distributed computing system that provides a fast and general-purpose cluster-computing framework for big data processing. 
+
+• Developed by the Apache Software Foundation, Apache Spark is designed to be fast, flexible, and easy to use. It enables distributed data processing for large scale datasets across clusters of computers.
+
+## PySpark
+• PySpark is an open-source Python library and one of the core components of the Apache Spark ecosystem. 
+
+• It enables Python developers to work with Apache Spark, a distributed, high-performance computing framework designed for big data processing. 
+
+• PySpark combines the power of Spark's distributed computing capabilities with the simplicity and versatility of the Python programming language.
+
